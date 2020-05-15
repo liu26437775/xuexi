@@ -19,10 +19,10 @@ public class JdkProxyFactory {
                 new InvocationHandler() {
                     @Override
                     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-                        System.out.println("通过jdk代理执行前处理一些事情...");
+                        System.out.println("记录操作日志...");
                         System.out.println("Method:" + method);
                         Object returnValue = method.invoke(target, args);
-                        System.out.println("通过jdk代理执行后处理一些事情...");
+                        System.out.println("记录操作日志结束...");
                         return returnValue;
                     }
                 }

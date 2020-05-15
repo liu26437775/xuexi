@@ -1,9 +1,13 @@
 package com.liuli.fanshe;
 
-public class User {
-    private String userName;
+public class User extends  AAA{
+    public String userName;
 
     private int age;
+
+
+
+
 
     public String getUserName() {
         return userName;

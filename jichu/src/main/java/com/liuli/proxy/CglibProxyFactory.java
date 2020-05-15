@@ -34,10 +34,10 @@ public class CglibProxyFactory implements MethodInterceptor {
     @Override
     public Object intercept(Object obj, Method method, Object[] args, MethodProxy proxy) throws Throwable {
 
-        System.out.println("通过jdk代理执行前处理一些事情...");
+        System.out.println("通过cglib代理执行前处理一些事情...");
         System.out.println("Method:" + method);
         Object returnValue = method.invoke(target, args);
-        System.out.println("通过jdk代理执行后处理一些事情...");
+        System.out.println("通过cglib代理执行后处理一些事情...");
 
 
         return returnValue;

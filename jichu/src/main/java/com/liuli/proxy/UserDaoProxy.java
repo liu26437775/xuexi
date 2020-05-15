@@ -15,4 +15,13 @@ public class UserDaoProxy implements IUserDao{
         target.save();//执行目标对象的方法
         System.out.println("通过静态代理执行后处理一些事情...");
     }
+
+    @Override
+    public void query() {
+        System.out.println("query通过静态代理执行前处理一些事情...");
+        target.query();//执行目标对象的方法
+        System.out.println("query通过静态代理执行后处理一些事情...");
+    }
+
+
 }

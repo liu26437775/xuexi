@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32e3efa-b869-464c-830f-0c3f2616ee10" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/IUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/AAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/TestAAA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/target/classes/com/liuli/fanshe/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/target/classes/com/liuli/fanshe/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jichu/target/classes/com/liuli/fanshe/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/jichu/target/classes/com/liuli/fanshe/User.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/fanshe/target/" />
@@ -23,36 +28,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="IUserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/IUserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="54">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding>
+                <element signature="e#71#72#0" expanded="true" />
                 <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,12 +47,12 @@
       <file leaf-file-name="CglibProxyFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="113">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,47 +67,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserDaoProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JdkProxyFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="178">
+              <caret line="24" column="58" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="24" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Proxy.java">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="707" selection-start-line="707" selection-end-line="707" />
+            <state relative-caret-position="324">
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InvocationHandler.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            <state relative-caret-position="81">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AAA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/AAA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,8 +114,30 @@
       <file leaf-file-name="UsetMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="135">
+              <caret line="23" column="27" selection-start-line="22" selection-start-column="8" selection-end-line="23" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="2064" column="16" selection-start-line="2064" selection-start-column="11" selection-end-line="2064" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAAA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/TestAAA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,11 +174,16 @@
         <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/staticproxy/UserDaoProxy.java" />
         <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/dynamicproxy/JdkProxyFactory.java" />
         <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/dynamicproxy/UsetMain.java" />
-        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java" />
-        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java" />
+        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/User.java" />
+        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/AAA.java" />
+        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/IUserDao.java" />
         <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java" />
+        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java" />
+        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java" />
         <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java" />
         <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java" />
+        <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/TestAAA.java" />
         <option value="$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java" />
       </list>
     </option>
@@ -208,7 +220,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,14 +272,23 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="liuli" type="462c0819:PsiDirectoryNode" />
+              <item name="fanshe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xuexi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xuexi" type="462c0819:PsiDirectoryNode" />
+              <item name="jichu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="liuli" type="462c0819:PsiDirectoryNode" />
               <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,50 +409,86 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589525155890</updated>
-      <workItem from="1589525157991" duration="8043000" />
+      <workItem from="1589525157991" duration="10998000" />
+      <workItem from="1589548595257" duration="9000" />
+      <workItem from="1589549048147" duration="2729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8043000" />
+    <option name="totallyTimeSpent" value="13736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5867861" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47816348" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23987207" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2844345" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24520256" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2844345" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32922733" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24520256" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.5867861" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -440,48 +498,221 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>proxy</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jdkProxy</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jdkProxy.query();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fanshe/src/main/java/com/liuli/fanshe/User.java">
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="162">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fanshe/src/main/java/com/liuli/fanshe/TestMain.java">
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="999">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fanshe/pom.xml">
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="2064" column="16" selection-start-line="2064" selection-start-column="11" selection-end-line="2064" selection-end-column="16" />
+        <state relative-caret-position="756">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/AAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7749">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/AAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6939">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fanshe/src/main/java/com/liuli/fanshe/User.java" />
+    <entry file="file://$PROJECT_DIR$/fanshe/src/main/java/com/liuli/fanshe/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/fanshe/pom.xml" />
     <entry file="file://$PROJECT_DIR$/jichu/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -492,23 +723,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="32" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/dynamicproxy/UsetMain.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/IUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/dynamicproxy/UsetMain.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/misc/ReflectUtil.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8">
@@ -516,48 +731,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/InvocationHandler.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/AccessibleObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="707" selection-start-line="707" selection-end-line="707" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="6939">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="297">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDaoProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java">
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/IUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="227" column="13" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="24" column="58" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="24" selection-end-column="58" />
           <folding>
-            <element signature="e#113#114#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -569,34 +796,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java">
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="54">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/JdkProxyFactory.java">
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="324">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/AAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/fanshe/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/CglibProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="2064" column="16" selection-start-line="2064" selection-start-column="11" selection-end-line="2064" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/TestAAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jichu/src/main/java/com/liuli/proxy/UsetMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="135">
+          <caret line="23" column="27" selection-start-line="22" selection-start-column="8" selection-end-line="23" selection-end-column="27" />
         </state>
       </provider>
     </entry>
